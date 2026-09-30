@@ -1,0 +1,11 @@
+bandit
+semgrep
+unidiff
+boto3
+datasets
+pyyaml
+pandas
+numpy
+matplotlib
+openpyxl
+ipywidgets

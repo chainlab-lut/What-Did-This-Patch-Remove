@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article."
+title: "What Did This Patch Remove? Code, data, and labels"
+authors:
+  - family-names: Sardar
+    given-names: Bilal
+    affiliation: LUT University
+  - family-names: Kumar
+    given-names: Prabhat
+    affiliation: LUT University
+  - family-names: Agrawal
+    given-names: Ankit
+    affiliation: LUT University
+  - family-names: Islam
+    given-names: Najmul
+    affiliation: LUT University
+date-released: 2026-09-30
