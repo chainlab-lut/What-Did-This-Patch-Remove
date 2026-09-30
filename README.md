@@ -1,7 +1,6 @@
 # What Did This Patch Remove?
 
-Code, data, and labels for the article *What Did This Patch Remove?* (Sardar, Kumar, Agrawal, Islam;
-LUT University; submitted to *IEEE Computer*).
+Code, data, and labels for the article *What Did This Patch Remove?* 
 
 The study examines 3,284 test-passing (resolved) patches from 11 public agent configurations on
 SWE-bench Verified (2024–2026), alongside developers' fixes for the same issues. It records what each
@@ -17,7 +16,7 @@ generated.
 | `notebook/PATCH_study.ipynb` | Full pipeline for Google Colab (CPU only): download patches, analyze, scan, triage, seeded deletions, labeling, detector-miss check. |
 | `src/patchstudy.py` | Analysis library: function-level removal and addition detection, patch application, scanner diffing, triage, statistics. |
 | `src/final_analysis.py` | Produces the paper's numbers, Table 2 rows, and figure data from `data/triage.jsonl`. |
-| `data/` | Per-patch results and labels (see `data/README.md`). |
+| `data/` | Per-patch results and labels. |
 | `labeling/labeling_guide.md` | The guide given to every labeler, including the AI comparison labeler. |
 | `paper/main.tex` | Article source (self-contained; compiles with IEEEtran). |
 
